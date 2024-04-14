@@ -1,0 +1,2 @@
+Projekt na laboratorium 1 z Metaheurystyk. Kod źródłowy w plikach MEH_lab_1.cpp, LiniarCongruentialGenerator.h i LiniarCongruentialGenerator.cpp. Wyznaczanie wartości kolejnej liczby losowej w metodzie next() klasy LiniarCongruentialGenerator. Oba zadania rozwiązane w pliku  MEH_lab_1.cpp w funkcji main.
+Program pozwala na podanie parametrów pracy generatora i ilości liczb pseudolosowych do wygenerowania. Z nieznanych mi powodów, przy niektórych kombinacjach parametrów, z jakimi inicjalizowany jest generator, program po wykonaniu obliczeń, kończy pracę z błędem.
